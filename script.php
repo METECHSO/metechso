@@ -1,0 +1,26 @@
+<a href="javascript:" class="scroll-to-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js"></script>
+<script src="js/navigation.js"></script>
+<script src="js/navigation.fixed.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+<script src="js/revolution/jquery.themepunch.tools.min.js"></script>
+<script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
+<script src="js/revolution/revolution.extension.actions.min.js"></script>
+<script src="js/revolution/revolution.extension.kenburn.min.js"></script>
+<script src="js/revolution/revolution.extension.layeranimation.min.js"></script>
+<script src="js/revolution/revolution.extension.migration-2.min.js"></script>
+<script src="js/revolution/revolution.extension.parallax.min.js"></script>
+<script src="js/revolution/revolution.extension.navigation.min.js"></script>
+<script src="js/revolution/revolution.extension.slideanims.min.js"></script>
+<script src="js/revolution/revolution.extension.video.min.js"></script>
+<script src="js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.2/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tabslet.js/1.7.3/jquery.tabslet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/7.4.1/swiper-bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+<script src="js/map.js"></script>
