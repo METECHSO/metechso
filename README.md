@@ -1,5 +1,5 @@
-# README #
+# README
 
-Source Code Aplikasi Stok dan Penjualan Barang
+APlikasi Manajemen Pergudangan
 
-By [Kang Jaz](https://kangjaz.com)
+By METECHSO
