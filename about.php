@@ -1,19 +1,42 @@
+<<<<<<< HEAD
+=======
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<?php
+	include "style.php";
+	?>
+</head>
+
+>>>>>>> 8c27b20 (	new file:   about.php)
 <?php
 $title = "About";
 include "header.php";
 ?>
+<<<<<<< HEAD
 <?php
 include "style.php";
 ?>
+=======
+
+>>>>>>> 8c27b20 (	new file:   about.php)
 <div class="page-title-section" style="background-image: url(img/bg/bg-banner.jpg);">
 	<div class="container">
 		<h1>About Us</h1>
 		<ul>
 			<li>
+<<<<<<< HEAD
 				<a href="index.php">Home</a>
 			</li>
 			<li>
 				<a href="about.php">About</a>
+=======
+				<a href="/">Home</a>
+			</li>
+			<li>
+				<a href="about">About</a>
+>>>>>>> 8c27b20 (	new file:   about.php)
 			</li>
 		</ul>
 	</div>
@@ -32,7 +55,11 @@ include "style.php";
 					<div class="section-heading-line-left"></div>
 					<div class="text-content-big mt-20">
 						<p>
+<<<<<<< HEAD
 							METECHSO company was founded in 2023. METECHSO is also supported by experts who are professional in their fields and have expertise certification from well-known brands. In support of quality standards of goods or services produced.
+=======
+							PT. Medang Technology Solution (METECHSO) company was founded in 2021. METECHSO is also supported by experts who are professional in their fields and have expertise certification from well-known brands. In support of quality standards of goods or services produced.
+>>>>>>> 8c27b20 (	new file:   about.php)
 						</p>
 					</div>
 					<div class="mt-35">
@@ -90,8 +117,13 @@ include "style.php";
 		</div>
 	</div>
 </div>
+<<<<<<< HEAD
 <div class="section-block-parallax section-md" style="background-image: url(img/bg/bg.jpg);">
 	<div class="container">
+=======
+<div class="section-block-parallax section-md" style="background-color:#111111;">
+	<div class=" container">
+>>>>>>> 8c27b20 (	new file:   about.php)
 		<div class="row">
 			<div class="col-md-5 col-sm-5 col-12">
 				<div class="section-heading white-color mt-15">
@@ -101,9 +133,23 @@ include "style.php";
 			</div>
 			<div class="col-md-7 col-sm-7 col-12">
 				<div class="row">
+<<<<<<< HEAD
 					<div class="col-md-4 col-sm-4 col-12">
 						<div class="counter-box white-color">
 							<h4 class="countup">0</h4>
+=======
+                <div class="col-md-4 col-sm-4 col-12">
+						<div class="counter-box white-color">
+							<h4 class="mt-0">11</h4>
+							<p>
+								Partners
+							</p>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-12">
+						<div class="counter-box white-color">
+							<h4 class="mt-0">4</h4>
+>>>>>>> 8c27b20 (	new file:   about.php)
 							<p>
 								Clients
 							</p>
@@ -111,12 +157,17 @@ include "style.php";
 					</div>
 					<div class="col-md-4 col-sm-4 col-12">
 						<div class="counter-box white-color">
+<<<<<<< HEAD
 							<h4 class="countup">0</h4>
+=======
+							<h4 class="mt-0">7</h4>
+>>>>>>> 8c27b20 (	new file:   about.php)
 							<p>
 								Projects Finished
 							</p>
 						</div>
 					</div>
+<<<<<<< HEAD
 					<div class="col-md-4 col-sm-4 col-12">
 						<div class="counter-box white-color">
 							<h4 class="countup">8</h4>
@@ -156,15 +207,25 @@ include "style.php";
 							</div>
 						</div>
 					</div>
+=======
+>>>>>>> 8c27b20 (	new file:   about.php)
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+<<<<<<< HEAD
 <div class="section-block-grey">
 	<div class="container">
 		<div class="section-heading text-center">
 			<h4>Client Opinions & Reviews</h4>
+=======
+
+<div class="section-block-grey">
+	<div class="container">
+		<div class="section-heading text-center">
+			<h4>Clients</h4>
+>>>>>>> 8c27b20 (	new file:   about.php)
 			<div class="section-heading-line"></div>
 		</div>
 		<div class="row mt-50">
@@ -173,16 +234,40 @@ include "style.php";
 					<div class="row">
 						<div class="col-md-4 col-sm-4 col-4">
 							<div class="testmonial-box-4-img">
+<<<<<<< HEAD
 								<img src="img/team/download.jpg">
+=======
+								<img src="img/client/wsm.jpg">
+>>>>>>> 8c27b20 (	new file:   about.php)
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-8 col-8">
 							<div class="testmonial-box-4-text">
+<<<<<<< HEAD
 								<p>
 									.
 								</p>
 								<h4>.</h4>
 								<h5>.</h5>
+=======
+								<h4>CV. Wahana Sukses Makmur</h4>
+								<h5>General Supplier</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+                <div class="testmonial-box-4">
+					<div class="row">
+						<div class="col-md-4 col-sm-4 col-4">
+							<div class="testmonial-box-4-img">
+								<img src="img/client/1.png">
+							</div>
+						</div>
+						<div class="col-md-8 col-sm-8 col-8">
+							<div class="testmonial-box-4-text">
+								<h4>PT. Shiddiq Sarana Mulya</h4>
+								<h5>General Contractor Consulting</h5>
+>>>>>>> 8c27b20 (	new file:   about.php)
 							</div>
 						</div>
 					</div>
@@ -191,16 +276,40 @@ include "style.php";
 					<div class="row">
 						<div class="col-md-4 col-sm-4 col-4">
 							<div class="testmonial-box-4-img">
+<<<<<<< HEAD
 								<img src="img/team/download.jpg">
+=======
+								<img src="img/client/ecosif.png">
+>>>>>>> 8c27b20 (	new file:   about.php)
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-8 col-8">
 							<div class="testmonial-box-4-text">
+<<<<<<< HEAD
 								<p>
 									.
 								</p>
 								<h4>.</h4>
 								<h5>.</h5>
+=======
+								<h4>PT. Ecosif Multi Kreasi</h4>
+								<h5>General Contractor</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+                <div class="testmonial-box-4">
+					<div class="row">
+						<div class="col-md-4 col-sm-4 col-4">
+							<div class="testmonial-box-4-img">
+								<img src="img/client/fannynails.jpg">
+							</div>
+						</div>
+						<div class="col-md-8 col-sm-8 col-8">
+							<div class="testmonial-box-4-text">
+								<h4>Fanny Nails</h4>
+								<h5>Online Shop</h5>
+>>>>>>> 8c27b20 (	new file:   about.php)
 							</div>
 						</div>
 					</div>

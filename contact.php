@@ -1,19 +1,42 @@
+<<<<<<< HEAD
+=======
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<?php
+include "style.php";
+?>
+</head>
+
+>>>>>>> 8c27b20 (	new file:   about.php)
 <?php
 $title = "Contact";
 include "header.php";
 ?>
+<<<<<<< HEAD
 <?php
 include "style.php";
 ?>
+=======
+
+>>>>>>> 8c27b20 (	new file:   about.php)
 <div class="page-title-section" style="background-image: url(img/bg/bg-banner-2.jpg);">
 	<div class="container">
 		<h1>Contact</h1>
 		<ul>
 			<li>
+<<<<<<< HEAD
 				<a href="index.php">Home</a>
 			</li>
 			<li>
 				<a href="contact.php">Contact</a>
+=======
+				<a href="/">Home</a>
+			</li>
+			<li>
+				<a href="contact">Contact</a>
+>>>>>>> 8c27b20 (	new file:   about.php)
 			</li>
 		</ul>
 	</div>
@@ -28,11 +51,35 @@ include "style.php";
 		<div class="row mt-50">
 			<div class="col-md-6 col-sm-6 col-12">
 				<div id="map" class="mb-20 mt-10">
+<<<<<<< HEAD
 					<iframe width="100%" height="420" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Jl.%20Lestari%201%20Blok%20D2A%20No.4,%20RT.6/RW.2,%20Medang,%20Kec.%20Pagedangan,%20Tangerang,%20Banten%2015334+(My%20Business%20Name)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
 				</div>
 			</div>
 			<div class="col-md-6 col-sm-6 col-12">
 				<form id="contact" class="contact-form mt-6" method="post" action="https://formspree.io/f/mknywpql">
+=======
+					<div class="gmap_canvas"><iframe width="100%" height="420" id="gmap_canvas" src="https://maps.google.com/maps?q=PT.%20Medang%20Technology%20Solution&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+						<style>
+							.mapouter {
+								position: relative;
+								text-align: right;
+								height: 420px;
+								width: 100%;
+							}
+
+							.gmap_canvas {
+								overflow: hidden;
+								background: none !important;
+								height: 420px;
+								width: 100%;
+							}
+						</style>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-6 col-12">
+				<form id="contact" class="contact-form mt-6" method="post" action="https://formspree.io/f/mzbwqaaz">
+>>>>>>> 8c27b20 (	new file:   about.php)
 					<div class="messages"></div>
 					<div class="row">
 						<div class="col-md-6">
@@ -97,7 +144,11 @@ include "style.php";
 							<h4>Whatsapp</h4>
 							</p>
 							<p>
+<<<<<<< HEAD
 							<h6>(+62)889-0569-4314</h6>
+=======
+							<h6>(+62)819-3419-8108</h6>
+>>>>>>> 8c27b20 (	new file:   about.php)
 							</p>
 						</div>
 					</div>
@@ -114,7 +165,11 @@ include "style.php";
 							<h4>Mail</h4>
 							</p>
 							<p>
+<<<<<<< HEAD
 							<h6>mailmetechso@gmail.com</h6>
+=======
+							<h6>cs@metechso.com</h6>
+>>>>>>> 8c27b20 (	new file:   about.php)
 							</p>
 						</div>
 					</div>

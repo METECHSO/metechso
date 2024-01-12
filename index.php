@@ -1,10 +1,26 @@
+<<<<<<< HEAD
+=======
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<?php
+	include "style.php";
+	?>
+</head>
+
+>>>>>>> 8c27b20 (	new file:   about.php)
 <?php
 $title = "METECHSO";
 include "header.php";
 ?>
+<<<<<<< HEAD
 <?php
 include "style.php";
 ?>
+=======
+
+>>>>>>> 8c27b20 (	new file:   about.php)
 <div class="rev_slider_wrapper fs-slider-wrap bg-arrows">
 	<div id="rev_slider" class="rev_slider fullscreenbanner">
 		<ul>
@@ -37,28 +53,49 @@ include "style.php";
 		<div class="row mt-40">
 			<div class="col-md-4 col-sm-4 col-12">
 				<div class="feature-box-3">
+<<<<<<< HEAD
 					<i class="fa fa-cloud-upload"></i>
 					<h4>IT Infrastructure</h4>
 					<p>
 						Make your office have a modern, reliable and secure network infrastructure, making it easier to work in your office.
+=======
+					<img src="img/content/services/network.png" alt="feature-box-3-img">
+					<h4>IT Infrastructure</h4>
+					<p>
+						Have a modern, reliable, and secure infrastructure, so that your business grows.
+>>>>>>> 8c27b20 (	new file:   about.php)
 					</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-4 col-12">
 				<div class="feature-box-3">
+<<<<<<< HEAD
 					<i class="fa fa-dashboard"></i>
 					<h4>Hardware</h4>
 					<p>
 						Devices that can facilitate all your work, with the latest technology.
+=======
+					<img src="img/content/services/cloud-server.png" alt="feature-box-3-img">
+					<h4>Hosting</h4>
+					<p>
+						Hosting services on the internet for your various data securely.
+>>>>>>> 8c27b20 (	new file:   about.php)
 					</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-4 col-12">
 				<div class="feature-box-3">
+<<<<<<< HEAD
 					<i class="fa fa-universal-access"></i>
 					<h4>Internet of Things</h4>
 					<p>
 						Manage everything using the internet, making it easier for you to control things.
+=======
+					<img src="img/content/services/website.png" alt="feature-box-3-img">
+					<h4>Software</h4>
+					<p>
+						Manage everything using 1 app, making it easier for you to manage things.
+>>>>>>> 8c27b20 (	new file:   about.php)
 					</p>
 				</div>
 			</div>
@@ -69,7 +106,10 @@ include "style.php";
 	<div class="container section-block-bg" style="background-image: url('img/bg/map-shape.png'); background-size: 800px">
 		<div class="section-heading text-center">
 			<h4 class="mb-0">Professional Approach and Quality Services</h4>
+<<<<<<< HEAD
 			<h2 class="mb-0">We Provide All Kind Of Business Services</h2>
+=======
+>>>>>>> 8c27b20 (	new file:   about.php)
 			<a href="contact.php" class="primary-button button-lg mt-30">Contact Us</a>
 		</div>
 	</div>
@@ -96,7 +136,20 @@ include "style.php";
 				<img src="img/partners/logo2.jpg" alt="partner-image">
 			</div>
 			<div class="item">
+<<<<<<< HEAD
 				<img src="img/partners/logo1.jpg" alt="partner-image">
+=======
+				<img src="img/partners/Logo1.jpg" alt="partner-image">
+			</div>
+			<div class="item">
+				<img src="img/partners/belden.png" alt="partner-image">
+			</div>
+			<div class="item">
+				<img src="img/partners/Brother.png" alt="partner-image">
+			</div>
+			<div class="item">
+				<img src="img/partners/niagahoster.png" alt="partner-image">
+>>>>>>> 8c27b20 (	new file:   about.php)
 			</div>
 			<div class="item">
 				<center><img src="img/partners/indorack.png" alt="partner-image"></center>
